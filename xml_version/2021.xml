@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<information>
+  <student roll="2021">
+    <name>sachinh kumar </name>
+    <gender>male</gender>
+    <year>1</year>
+    <Course>AI</Course>
+    <resume>upload/lect7.pdf</resume>
+  </student>
+  <student roll="2021">
+    <name>jksnknksd sk kds</name>
+    <gender>female</gender>
+    <year>3</year>
+    <Course>AI ,Software Engineering</Course>
+    <resume>upload/onepage_resume.pdf</resume>
+  </student>
+</information>

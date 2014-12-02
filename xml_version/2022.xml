@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<information>
+  <student roll="2022">
+    <name>hemraj kumawat </name>
+    <gender>male</gender>
+    <year>4</year>
+    <Course>AI ,Software Engineering</Course>
+    <resume>upload/ai-hw-1-14_2.pdf</resume>
+  </student>
+  <student roll="2022">
+    <name>hemraj</name>
+    <gender>male</gender>
+    <year>3</year>
+    <Course>AI ,Software Engineering</Course>
+    <resume>upload/lecture01.pdf</resume>
+  </student>
+</information>

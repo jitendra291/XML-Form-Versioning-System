@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<information>
+  <student roll="2023">
+    <name>nb nb jh j</name>
+    <gender>male</gender>
+    <year>2</year>
+    <Course>Software Engineering</Course>
+    <resume>upload/jitendra_resume.pdf</resume>
+  </student>
+  <student roll="2023">
+    <name>jnkjnknknk</name>
+    <gender>male</gender>
+    <year>3</year>
+    <Course>AI</Course>
+    <resume>upload/grade_sheet_UG201110012.pdf</resume>
+  </student>
+</information>
